@@ -68,6 +68,12 @@ Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran)
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
+## Credits
+
+Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran), [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
+
+Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
+
 ## License
 
 Creative Commons. Please see [license.txt](license.txt).
